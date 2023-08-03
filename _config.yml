@@ -108,10 +108,10 @@ analytics:
 author:
   name             : "Daebeom Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SLAM Engineer"
+  bio              : "SLAM Engineer @ Urban Robotics Lab."
   location         : "KAIST, Daejeon, KOREA"
-  email            :
-  links:
+  email            : "ted97k@kaist.ac.kr"
+  links: 
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     # url: "ted97k@kaist.ac.kr"
