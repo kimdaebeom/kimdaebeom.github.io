@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "About Me"
+    url: /about/
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -14,3 +16,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+counts:
+  - title: "Category"
+    use: true
+  - title: "Tag"
+    use: true

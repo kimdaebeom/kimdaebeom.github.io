@@ -108,9 +108,9 @@ analytics:
 # Site Author
 author:
   name             : "Daebeom Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SLAM Engineer, Urban Robotics Lab."
-  location         : "KAIST, Daejeon"
+  avatar           : "/assets/images/logo2.jpg"
+  bio              : "SLAM Engineer"
+  location         : "Daejeon, Korea"
   email            : 
   links: 
 
@@ -118,7 +118,7 @@ author:
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:ted97k@kaist.ac.kr"
   
-  - label: "Website"
+  - label: "NaverBlog"
     icon: "fas fa-fw fa-link"
     url: "https://blog.naver.com/ted97k"
    
