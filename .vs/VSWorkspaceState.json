@@ -1,13 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\css",
-    "\\assets\\js",
     "\\_data",
-    "\\_includes\\search",
-    "\\_posts",
-    "\\_sass\\minimal-mistakes"
+    "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2023-08-05-std.md",
+  "SelectedNode": "\\_posts\\2023-08-11-for.md",
   "PreviewInSolutionExplorer": false
 }
